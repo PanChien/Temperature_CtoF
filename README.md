@@ -1,1 +1,1 @@
-# Temperature_CtoF
+# Temperature_CtoF_攝氏(°C)轉換成華氏(°F)
